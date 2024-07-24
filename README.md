@@ -14,3 +14,7 @@ You can use this language to create any program!
 
 I liked the idea, I made something like this, and called it 'I Use Linux BTW', or UseLinuxBTW.  
 With `i`, `use`, `linux`, and `btw`, you can output anything from A-Z and spaces.
+
+## How to Install
+- Download `main.py`
+- Run the file then add the path of the code to the command. something like `python3 main.py code.linuxbtw`
