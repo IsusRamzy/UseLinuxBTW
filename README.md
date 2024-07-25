@@ -13,7 +13,7 @@ You can use this language to create any program!
 
 
 I liked the idea, I made something like this, and called it 'I Use Linux BTW', or UseLinuxBTW.  
-With `i`, `use`, `linux`, and `btw`, you can output anything from A-Z and spaces.
+With `i`, `use`, `linux`, and `btw`, you can output anything in the ASCII table.
 
 ## How to Install
 - Download `main.py`
