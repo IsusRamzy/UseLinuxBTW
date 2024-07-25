@@ -17,4 +17,4 @@ With `i`, `use`, `linux`, and `btw`, you can output anything from A-Z and spaces
 
 ## How to Install
 - Download `main.py`
-- Run the file then add the path of the code to the command. something like `python3 main.py code.linuxbtw`
+- Run the file then add the path of the code to the command. something like `python3 main.py mycode.linuxbtw`
