@@ -7,7 +7,7 @@ an operating system kernel first released on September 17, 1991, by Linus Torval
 See: <a href="https://github.com/torvalds/linux">Linux Kernel Source</a>, <a href="https://en.wikipedia.org/wiki/Linux">Linux Wikipedia</a>
 
 ## Idea of `UseLinuxBTW`
-People who use Arch Linux (the hardest linux distro) often say 'I use Arch BTW'.  
+People who use Arch Linux (one of the hardest linux distro) often say 'I use Arch BTW'.  
 Someone created a project called 'I Use Arch BTW' based on brainfrick programming language, that uses `i`, `use`, `arch`, `linux`, `btw`, `by`, `the`, `way`, and `gentoo`.  
 You can use this language to create any program!
 
